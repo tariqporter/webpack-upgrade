@@ -1,0 +1,8 @@
+# Node modules #
+###################
+AspDotNet/.vs/
+AspDotNet/packages/
+AspDotNet/AspDotNet/node_moudles
+
+AspDotNetMvc/.vs/
+AspDotNetMvc/packages/
